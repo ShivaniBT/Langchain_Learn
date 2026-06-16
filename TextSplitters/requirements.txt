@@ -1,0 +1,30 @@
+langchain-core
+langchain
+langchain-openai
+
+langchain-community
+
+# Hugging Face integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Local model support
+sentence-transformers
+accelerate
+sentencepiece
+torch
+
+# Utilities
+python-dotenv
+numpy
+scikit-learn
+
+
+pydantic[email]
+
+beautifulsoup4 
+requests
+
+langchain-text-splitters
+langchain-experimental
